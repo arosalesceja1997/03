@@ -111,7 +111,7 @@ end
 obj = GameLive.new()
 obj.juegoDibujar()
 
-for i in 0..9
+for i in 0..15
   obj.jugandoGame()
   puts
   obj.juegoDibujar()
